@@ -10,4 +10,4 @@ def test_add():
     assert 3+5 == 8
 
 def test_sub():
-    assert 3-5 == -3
+    assert 3-5 == -2
